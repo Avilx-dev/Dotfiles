@@ -22,3 +22,6 @@ bspc config focused_border_color "#ff0000"
 bspc config presel_feedback_color "#ff0000"
 export SUN_AWT_NO_ERASEBACKGROUND=1
 
+xrandr --newmode "1920x1080_120.00" 369.50 1920 2080 2288 2656 1080 1083 1088 1160 -hsync +vsync
+xrandr --addmode None-1 "1920x1080_120.00"
+xrandr --output None-1 --mode "1920x1080_120.00"
