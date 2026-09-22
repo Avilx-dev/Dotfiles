@@ -190,3 +190,4 @@ function extractPorts(){
 # Created by `pipx` on 2026-02-18 18:53:59
 export PATH="$PATH:/home/Avilx/.local/bin"
 export _JAVA_AWT_WM_NONREPARENTING=1
+alias lock='betterlockscreen -l blur'

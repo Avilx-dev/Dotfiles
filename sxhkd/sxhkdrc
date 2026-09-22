@@ -149,3 +149,7 @@ super + Escape
  # Obsidian
 ctrl + shift + b 
   /usr/bin/obsidian
+
+# Bloquear pantalla
+super + shift + l
+	/home/Avilx/.local/bin/lock.sh
